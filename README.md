@@ -9,7 +9,6 @@ assets/
   kfa-mark.webp/.png    ← KFA 로고 (nav·표지·푸터·파비콘)
   cover-emblem.webp     ← 진짜 커버의 심장박동 엠블럼
   kfa-emblem-only.webp  ← 밝은 배경 섹션 제목 앞 엠블럼
-  kfa-emblem-white.webp ← 네이비 배경 섹션 제목 앞 엠블럼(흰색)
   cover-bg.jpg          ← 본문 커버 배경
   bi-emblem.png / bi-forward.jpg  ← 브랜드 섹션 이미지
   fans.jpg              ← 팬 메시지 섹션 배경
